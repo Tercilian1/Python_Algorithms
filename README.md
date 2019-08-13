@@ -1,4 +1,4 @@
-|[Table of Contents](/Python_Algorithms/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
